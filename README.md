@@ -4,8 +4,9 @@ The purpose of the analysis is to retrieve all the temperatures for the month of
 
 ## **Results**
 
-![Summary_Staistics_June](Resources/Summary_Staistics_June.png)
-![Summary_Staistics_December](Resources/Summary_Staistics_December.png)
+![Summary_Statistics_June](Resources/Summary_Statistics_June.png)
+
+![Summary_Statistics_Dec](Resources/Summary_Statistics_Dec.png)
 
 * The minimum temperature of June is quite high with 64 than that of December which is 56
 * The maximum temperature of both June and December is comparable at 85 and 83 respectively.
